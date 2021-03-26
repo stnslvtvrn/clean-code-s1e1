@@ -57,7 +57,8 @@
   color: #0FC57C !important;
 }
 
-.input, .btn {
+.input,
+.btn {
   outline: none;
 }
 
